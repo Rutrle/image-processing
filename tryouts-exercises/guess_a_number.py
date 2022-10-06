@@ -3,7 +3,7 @@ import random
 
 
 def guessing_game(low_num: int = 0, high_num: int = 10) -> bool:
-    """Playone round of number guessing game.
+    """Play one round of number guessing game.
 
     Parameters
     ----------
