@@ -8,6 +8,7 @@ def try_arange():
     print(a)
     print(a.shape)
 
+
     print(a2)
     print(a2.shape)
 
